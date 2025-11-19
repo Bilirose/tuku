@@ -13,8 +13,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/tuku
-    username: root
-    password: rose
+    username: 
+    password: 
   # Redis 配置
   redis:
     database: 0
